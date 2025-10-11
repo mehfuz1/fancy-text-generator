@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://fancy-text-font.github.io/fancy-text-generator/sitemap.xml
