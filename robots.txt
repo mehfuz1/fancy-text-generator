@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://mehfuz1.github.io/fancy-text-generator/sitemap.xml
+
+Sitemap: https://fancy-text-font.github.io/fancy-text-generator/sitemap.xml
