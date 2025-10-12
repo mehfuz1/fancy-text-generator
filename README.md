@@ -12,5 +12,5 @@ Yeh tool 200+ stylish Unicode fonts banata hai copy-paste ke liye. Instagram bio
 2. Styles generate honge.
 3. Copy karein!
 
-Live Demo: https://yourusername.github.io/fancy-text-generator
+Live Demo: https://exampleuser.github.io/fancy-text-generator
 My Fancy Text Generator Website
