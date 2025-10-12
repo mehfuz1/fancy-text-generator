@@ -1,3 +1,11 @@
 User-agent: *
 Allow: /
+
+# Disallow unnecessary system files or folders
+Disallow: /assets/
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+
+# Sitemap location (important!)
 Sitemap: https://fancy-text-font.github.io/fancy-text-generator/sitemap.xml
